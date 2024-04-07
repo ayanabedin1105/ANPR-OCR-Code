@@ -1,0 +1,1 @@
+This folder contains the OCR code needed to detect and extract the license plates and save it to Firebase.
